@@ -1,5 +1,8 @@
 # Data Access Technologies
 
+![Data Access Technologies](database-access-overview.jpg)
+
+
 ## Configuration Properties
 
 ```yaml
