@@ -1,0 +1,16 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: mybatis-spring-boot
+
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/illustrator_db?currentSchema=illustrator
+    username: postgres
+    password: password
+
+  sql:
+    init:
+      mode: always
